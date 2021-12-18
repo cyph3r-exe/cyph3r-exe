@@ -1,16 +1,16 @@
-### Hi there 👋
+# @cyph3r.exe
 
-<!--
-**cyph3r-exe/cyph3r-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dead Guy with an Autonomous Mind 
+-> Programmer  
+-> Writer  
+-> Musician  
+-> Graphic Artist  
+-> Community Manager  
+-> Part time Gamer 
 
-Here are some ideas to get you started:
+## Experiences 
+-> Musician for 15+yrs  
+-> Community Administrator and Manager for 3+yrs  
+-> Freelance developer for 2+yrs  
+-> Youtube Moderator for various CC for 2+yrs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
