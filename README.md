@@ -14,3 +14,6 @@
 -> Freelance developer for 2+yrs  
 -> Youtube Moderator for various CC for 2+yrs
 
+---
+
+[![cyph3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyph3r-exe)](https://github.com/anuraghazra/github-readme-stats)
