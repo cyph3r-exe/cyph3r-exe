@@ -7,10 +7,10 @@
 <br>
 
 ## Experiences 
-:zap: Musician for 15+yrs  
--> Community Administrator and Manager for 3+yrs  
--> Freelance developer for 2+yrs  
--> Youtube Moderator for various CC for 2+yrs
+:musical_note: Musician for 15+yrs  
+:zap: Community Administrator and Manager for 3+yrs  
+:tools: Freelance developer for 2+yrs  
+:shield: Youtube Moderator for various CC for 2+yrs
 
 ---
 ---
