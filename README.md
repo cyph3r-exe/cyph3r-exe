@@ -4,12 +4,13 @@
  <h2 align="center">Hi, I am Debangshu "cyph3r.exe" Roy</h2>
   <p align="center">Dead Guy with an Autonomous Mind </p>
 
+
 <br>
 
 ## Experiences 
 :musical_note: Musician for 15+yrs  
 :zap: Community Administrator and Manager for 3+yrs  
-:tools: Freelance developer for 2+yrs  
+:mechanic: Freelance developer for 2+yrs  
 :shield: Youtube Moderator for various CC for 2+yrs
 
 ---
@@ -22,6 +23,6 @@
 
 ## Connect with cyph3r.exe 
 
-[![mail](https://cdn.discordapp.com/emojis/921999977134293002.gif?size=40)](https://mailto:roy.debangshu.04@outlook.com) [![discordpng](https://cdn.discordapp.com/emojis/922000158852526081.gif?size=40)](https://dsc.gg/enigmagaming) [![twiiter](https://cdn.discordapp.com/emojis/922005697787486258.png?size=40)](https://twitter.com/deejay_cypher)
-
-</p>
+[![mail](https://cdn.discordapp.com/emojis/921999977134293002.gif?size=40)](https://mailto:roy.debangshu.04@outlook.com) [![discordpng](https://cdn.discordapp.com/emojis/922000158852526081.gif?size=40)](https://dsc.gg/enigmagaming) 
+[![Website](https://img.shields.io/website?label=cyph3r.exe&style=for-the-badge&url=https%3A%2F%2Fcyph3r-exe.github.io/cyph3r.exe/)](https://cyph3r-exe.github.io/cyph3r.exe/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/deejay_cypher?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/deejay_cypher)
