@@ -2,15 +2,14 @@
  <img width="100px" src="https://avatars.githubusercontent.com/u/67096012?v=4" align="center" alt="cyph3r-exe pfp" />
  <h1 align="center">cyph3r.exe</h1>
  <h2 align="center">Hi, I am Debangshu "cyph3r.exe" Roy</h2>
-  <p align="center">Dead Guy with an Autonomous Mind </p>
 
 
 <br>
 
 ## Experiences 
-:musical_note: Musician for 15+yrs  
-:zap: Community Administrator and Manager for 3+yrs  
-:mechanic: Freelance developer for 2+yrs  
+:musical_note: Musician for 18+yrs  
+:zap: Community Administrator and Manager for 4+yrs  
+:mechanic: Freelance Developer for 2+yrs  
 :shield: Youtube Moderator for various CC for 2+yrs
 
 ---
