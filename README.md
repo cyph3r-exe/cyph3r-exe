@@ -2,8 +2,6 @@
  <img width="100px" src="https://avatars.githubusercontent.com/u/67096012?v=4" align="center" alt="cyph3r-exe pfp" />
  <h1 align="center">cyph3r.exe</h1>
  <h2 align="center">Hi, I am Debangshu "cyph3r.exe" Roy</h2>
-
-
 <br>
 
 ## Experiences 
@@ -13,12 +11,9 @@
 :shield: Youtube Moderator for various CC for 2+yrs
 
 ---
----
 ![cyph3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyph3r-exe&show_icons=true&theme=radical)
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyph3r-exe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## Connect with cyph3r.exe 
 
